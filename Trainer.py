@@ -1,10 +1,8 @@
 from numpy.random import choice, randint
 import numpy as np
-import multiprocessing as mp
 import pickle
 import gym
 import time
-import cv2
 
 from Learner import Learner
 from Team import Team

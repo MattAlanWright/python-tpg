@@ -1,4 +1,4 @@
-# PyTPG
+# python-tpg
 
 This is a Python implementation of one of the of the most fantabulous reinforcement learning algorithms to ever grace the technosphere: Tangled Program Graphs, aka TPG. This algorithm is the result of the work done by Dr. Malcolm Heywood and his many students at Dalhousie University. It is a significant extension of linear genetic programming, a good intro to which is found in this paper: https://pdfs.semanticscholar.org/7cb0/f6755e325494afbda4f822026e8e6953ffe1.pdf. If you'd like to go deeper into linear genetic programming itself, the authors of the paper have also written a book simply called *Linear Genetic Programming*. 
 
