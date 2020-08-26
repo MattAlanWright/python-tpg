@@ -1,0 +1,12 @@
+# Compiled Python
+__pycache__/
+
+# Evolution results and artefacts
+*.txt
+*.pk
+*.trainer
+*.agent
+*.npy
+
+# Mac junk
+.DS_Store
